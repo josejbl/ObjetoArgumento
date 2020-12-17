@@ -1,0 +1,13 @@
+C:\Users\fic\Desktop\Objeto Argumento\bin\Debug\netcoreapp3.1\Objeto Argumento.exe
+C:\Users\fic\Desktop\Objeto Argumento\bin\Debug\netcoreapp3.1\Objeto Argumento.deps.json
+C:\Users\fic\Desktop\Objeto Argumento\bin\Debug\netcoreapp3.1\Objeto Argumento.runtimeconfig.json
+C:\Users\fic\Desktop\Objeto Argumento\bin\Debug\netcoreapp3.1\Objeto Argumento.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Objeto Argumento\bin\Debug\netcoreapp3.1\Objeto Argumento.dll
+C:\Users\fic\Desktop\Objeto Argumento\bin\Debug\netcoreapp3.1\Objeto Argumento.pdb
+C:\Users\fic\Desktop\Objeto Argumento\obj\Debug\netcoreapp3.1\Objeto Argumento.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Objeto Argumento\obj\Debug\netcoreapp3.1\Objeto Argumento.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Objeto Argumento\obj\Debug\netcoreapp3.1\Objeto Argumento.AssemblyInfo.cs
+C:\Users\fic\Desktop\Objeto Argumento\obj\Debug\netcoreapp3.1\Objeto Argumento.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Objeto Argumento\obj\Debug\netcoreapp3.1\Objeto Argumento.dll
+C:\Users\fic\Desktop\Objeto Argumento\obj\Debug\netcoreapp3.1\Objeto Argumento.pdb
+C:\Users\fic\Desktop\Objeto Argumento\obj\Debug\netcoreapp3.1\Objeto Argumento.genruntimeconfig.cache
